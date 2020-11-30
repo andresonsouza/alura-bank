@@ -1,0 +1,24 @@
+{
+  "name": "alurabank",
+  "version": "1.0.0",
+  "description": "Projeto de estudo do curso 01 de typescript da Alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile":"tsc",
+    "start":"tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresonsouza/alura-bank.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresonsouza/alura-bank/issues"
+  },
+  "homepage": "https://github.com/andresonsouza/alura-bank#readme",
+  "devDependencies": {
+    "typescript": "^2.3.2"
+  }
+}
